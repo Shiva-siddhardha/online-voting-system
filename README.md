@@ -15,6 +15,12 @@ Supports admin, candidate, and voter roles, with a beautiful responsive UI and c
 
 ---
 
+🚀 **Live Demo:**
+
+[![Live Site](https://img.shields.io/badge/View-Live-green?style=for-the-badge)](https://www.onlinevoting.infinityfreeapp.com)
+
+---
+
 ## 🛠️ Setup (Local)
 
 1. **Clone the repo:**
