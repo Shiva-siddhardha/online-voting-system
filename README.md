@@ -65,21 +65,8 @@ online-voting-system/
 └── ...
 ```
 
----
-
-## 📸 Screenshots
-
-_Add screenshots of your UI here!_
-
----
-
-## 📝 License
-
-MIT License (or your preferred license)
-
----
 
 ## 🙏 Credits
 
-- Built by [Your Name]
+- Built by Shiva
 - UI inspired by modern web apps 
