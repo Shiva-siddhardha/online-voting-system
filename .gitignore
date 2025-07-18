@@ -1,0 +1,13 @@
+# Ignore uploaded candidate photos
+/assets/uploads/*
+!assets/uploads/.gitkeep
+
+# Ignore IDE/editor files
+*.swp
+*.swo
+*.bak
+.DS_Store
+Thumbs.db
+
+# Ignore environment/config files (if any)
+.env
